@@ -1,0 +1,28 @@
+body{
+  background: linear-gradient(to top right, #336699 19%, #00cc99 100%);
+  background-repeat: no-repeat;
+  font-family:'Poppins',sans-serif;
+}
+h2{
+  color:#fff;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+    padding-bottom: 50px
+}
+input,button{
+  height: 40px;
+  outline: 0;
+  border: 0;
+  border-radius: 5px;
+}
+.output{
+  margin-top:50px;
+}
+.output-container{
+  max-width: 200%;
+}
+
+    
